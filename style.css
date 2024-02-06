@@ -36,7 +36,7 @@
 .navbar .logo {
   cursor: pointer;
   margin-top: 1%;
-  margin-left: -2%;
+  margin-left: -5%;
 }
 
 ul {
@@ -66,7 +66,7 @@ ul li a:hover {
 }
 
 .info {
-  margin-left: 6%;
+  margin-left: 4%;
   margin-top: 4%;
   /* background-color: chocolate; */
 }
