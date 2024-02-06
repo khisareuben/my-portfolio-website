@@ -9,7 +9,7 @@
   background: url(img/pexels-henry-&-co-2341290.jpg);
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  height: 105vh;
   position: relative;
   font-family: sans-serif;
   display: grid;
@@ -117,8 +117,8 @@ h3 {
 }
 
 .image img {
-  width: 450px;
-  border-radius: 225px;
+  width: 350px;
+  border-radius: 200px;
   /* padding-left: 70px; */
   /* padding-top: 50px; */
 }
